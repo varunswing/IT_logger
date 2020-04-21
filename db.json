@@ -1,62 +1,42 @@
 {
   "logs": [
     {
-      "message": "Changed network card in server 007",
+      "message": "Fixed hard drive on workstation in 002",
       "attention": false,
       "tech": "Sam Smith",
-      "date": "2019-05-31T15:46:10.179Z",
-      "id": 1
-    },
-    {
-      "id": 2,
-      "message": "Fixed hard drive on workstation 002",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2019-05-31T16:18:04.245Z"
+      "date": "2020-04-20T06:36:52.386Z",
+      "id": 2
     },
     {
       "message": "1122 wireless down",
       "attention": true,
       "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
+      "date": "2020-04-20T06:37:23.140Z",
       "id": 3
     },
     {
       "id": 4,
-      "message": "Workstation 026 is up and running",
+      "message": "Changed Network card at server 002",
       "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
+      "tech": "Varun Sharma",
+      "date": "2020-04-21T16:41:10.167Z"
     }
   ],
   "techs": [
     {
-      "message": "Changed network card in server 007",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2019-05-31T15:46:10.179Z",
-      "id": 1
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
     },
     {
       "id": 2,
-      "message": "Fixed hard drive on workstation 002",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2019-05-31T16:18:04.245Z"
+      "firstName": "Sam",
+      "lastName": "Smith"
     },
     {
-      "message": "1122 wireless down",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
-      "id": 3
-    },
-    {
-      "id": 4,
-      "message": "Workstation 026 is up and running",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
     }
   ]
 }
