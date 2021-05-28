@@ -1,5 +1,5 @@
 # IT Logger
-:ticket:Logging Changes Required on Modules with Added Technichians.This application is made using Node Js | Express Js as backend.<br>
+:ticket: Logging Changes Required on Modules with Added Technichians.This application is made using Node Js | Express Js as backend.<br>
 
 :ticket: Work from Home React-Redux app to track IT department tasks and issues<br>
 
@@ -70,9 +70,9 @@ Before reporting bugs:
 
 ### REST API for third-party apps
 ## Description: 
-IT logger app provides a JSON-API for third-party apps.<br> 
+IT logger app provides a JSON-API for third-party apps.<br> <br>
 
-Feel free to reach out if any issues :raised_hands:
+:raised_hands: Feel free to reach out if any issues 
 
 ## :busts_in_silhouette: Maintainer
 - [Varun Sharma](https://github.com/varunswing)
