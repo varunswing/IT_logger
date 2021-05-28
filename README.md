@@ -1,68 +1,78 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# IT Logger
+:ticket:Logging Changes Required on Modules with Added Technichians.This application is made using Node Js | Express Js as backend.<br>
 
-## Available Scripts
+:ticket: Work from Home React-Redux app to track IT department tasks and issues<br>
 
-In the project directory, you can run:
+:ticket: Uses JSON-Server as mock backend<br>
 
-### `npm start`
+:hammer_and_wrench: Used Material Icons and Google Public API
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## :rocket: Installation and Usage
 
-### `npm test`
+### `npm install`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `npm run dev`
+
+Runs the app with the backend JSON-Server<br>
+Open [http://localhost:3000](http://localhost:3000)<br>
+Server [http://localhost:5000](http://localhost:5000)<br>
+db.json contains data
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Builds the app for production to the `build` folder.<br>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## :exclamation: Bugs
+Before reporting bugs:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* get the newest version of the Nodes app
 
-### `npm run eject`
+## :warning: Developer Info
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Building the app
+1. Enable the app through the app management 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Preview Interface
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<h4>Main Page:</h4>
+<br>
+<img src="https://github.com/varunswing/it_logger/blob/master/images/1.JPG"/>
+<br>
+<h4>Technician List:</h4>
+<br>
+<img src="https://github.com/varunswing/it_logger/blob/master/images/2.JPG"/>
+<br>
+<h4>Adding Logs:</h4>
+<br>
+<img src="https://github.com/varunswing/it_logger/blob/master/images/3.JPG"/>
+<br>
+<h4>Updating Logs: </h4>
+<br>
+<img src="https://github.com/varunswing/it_logger/blob/master/images/4.JPG"/>
+<br>
+<h4>Deleting logs:</h4>
+<br>
+<img src="https://github.com/varunswing/it_logger/blob/master/images/5.JPG"/>
+<br>
+<h4>Adding new Technicians:</h4>
+<br>
+<img src="https://github.com/varunswing/it_logger/blob/master/images/6.JPG"/>
+<br>
+<h4>Updating Logs:</h4>
+<br>
+<img src="https://github.com/varunswing/it_logger/blob/master/images/8.JPG"/>
+<br>
+<h4>Logs Updated:</h4>
+<br>
+<img src="https://github.com/varunswing/it_logger/blob/master/images/9.JPG"/>
+</br>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### REST API for third-party apps
+## Description: 
+IT logger app provides a JSON-API for third-party apps.<br> 
 
-## Learn More
+Feel free to reach out if any issues :raised_hands:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## :busts_in_silhouette: Maintainer
+- [Varun Sharma](https://github.com/varunswing)
