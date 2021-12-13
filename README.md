@@ -1,7 +1,7 @@
 # IT Logger
-:ticket: Logging Changes Required on Modules with Added Technichians.This application is made using Node Js | Express Js as backend.<br>
+:ticket: This application is made using Node Js | Express Js as backend.<br> Logging Changes Required on Modules with Added Technichians.
 
-:ticket: Work from Home React-Redux app to track IT department tasks and issues<br>
+:ticket: IT Logger React-Redux app to track IT department tasks and issues<br>
 
 :ticket: Uses JSON-Server as mock backend<br>
 
